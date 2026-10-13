@@ -1,0 +1,330 @@
+[
+  {
+    "supplied_file": "PL1A0B.png",
+    "module_file": "sample_001.png"
+  },
+  {
+    "supplied_file": "PL1B0B.png",
+    "module_file": "sample_002.png"
+  },
+  {
+    "supplied_file": "PL1C0B.png",
+    "module_file": "sample_003.png"
+  },
+  {
+    "supplied_file": "PL1D0B.png",
+    "module_file": "sample_004.png"
+  },
+  {
+    "supplied_file": "PL1D1B.png",
+    "module_file": "sample_005.png"
+  },
+  {
+    "supplied_file": "PL1E0B.png",
+    "module_file": "sample_006.png"
+  },
+  {
+    "supplied_file": "PL1E1B.png",
+    "module_file": "sample_007.png"
+  },
+  {
+    "supplied_file": "PL1E2B.png",
+    "module_file": "sample_008.png"
+  },
+  {
+    "supplied_file": "PL1F0B.png",
+    "module_file": "sample_009.png"
+  },
+  {
+    "supplied_file": "PL1F1B.png",
+    "module_file": "sample_010.png"
+  },
+  {
+    "supplied_file": "PL1F2B.png",
+    "module_file": "sample_011.png"
+  },
+  {
+    "supplied_file": "PL1G0B.png",
+    "module_file": "sample_012.png"
+  },
+  {
+    "supplied_file": "PL1G1B.png",
+    "module_file": "sample_013.png"
+  },
+  {
+    "supplied_file": "PL_10B.png",
+    "module_file": "daylight.png"
+  },
+  {
+    "supplied_file": "PL_20B.png",
+    "module_file": "sample_015.png"
+  },
+  {
+    "supplied_file": "PL_21B.png",
+    "module_file": "sample_016.png"
+  },
+  {
+    "supplied_file": "PL_22B.png",
+    "module_file": "sample_017.png"
+  },
+  {
+    "supplied_file": "PL_30B.png",
+    "module_file": "sample_018.png"
+  },
+  {
+    "supplied_file": "PL_31B.png",
+    "module_file": "sample_019.png"
+  },
+  {
+    "supplied_file": "PL_32B.png",
+    "module_file": "sample_020.png"
+  },
+  {
+    "supplied_file": "PL_40B.png",
+    "module_file": "sample_021.png"
+  },
+  {
+    "supplied_file": "PL_41B.png",
+    "module_file": "sample_022.png"
+  },
+  {
+    "supplied_file": "PL_42B.png",
+    "module_file": "sample_023.png"
+  },
+  {
+    "supplied_file": "PL_50B.png",
+    "module_file": "sample_024.png"
+  },
+  {
+    "supplied_file": "PL_51B.png",
+    "module_file": "heated_interior.png"
+  },
+  {
+    "supplied_file": "PL_52B.png",
+    "module_file": "sample_026.png"
+  },
+  {
+    "supplied_file": "PL_60B.png",
+    "module_file": "bright_overcast.png"
+  },
+  {
+    "supplied_file": "PL_61B.png",
+    "module_file": "dark_overcast.png"
+  },
+  {
+    "supplied_file": "PL_70B.png",
+    "module_file": "sample_029.png"
+  },
+  {
+    "supplied_file": "PL_71B.png",
+    "module_file": "sample_030.png"
+  },
+  {
+    "supplied_file": "PL_80B.png",
+    "module_file": "sample_031.png"
+  },
+  {
+    "supplied_file": "PL_81B.png",
+    "module_file": "sample_032.png"
+  },
+  {
+    "supplied_file": "PL_82B.png",
+    "module_file": "sample_033.png"
+  },
+  {
+    "supplied_file": "PL_83B.png",
+    "module_file": "sample_034.png"
+  },
+  {
+    "supplied_file": "PL_90B.png",
+    "module_file": "sample_035.png"
+  },
+  {
+    "supplied_file": "PL_91B.png",
+    "module_file": "sample_036.png"
+  },
+  {
+    "supplied_file": "PL_92B.png",
+    "module_file": "sample_037.png"
+  },
+  {
+    "supplied_file": "PL_93B.png",
+    "module_file": "sample_038.png"
+  },
+  {
+    "supplied_file": "PL_9MB.png",
+    "module_file": "sample_039.png"
+  },
+  {
+    "supplied_file": "PL_A0B.png",
+    "module_file": "sample_040.png"
+  },
+  {
+    "supplied_file": "PL_A1B.png",
+    "module_file": "sample_041.png"
+  },
+  {
+    "supplied_file": "PL_A2B.png",
+    "module_file": "sample_042.png"
+  },
+  {
+    "supplied_file": "PL_C0B.png",
+    "module_file": "sample_043.png"
+  },
+  {
+    "supplied_file": "PL_C1B.png",
+    "module_file": "sample_044.png"
+  },
+  {
+    "supplied_file": "PL_C2B.png",
+    "module_file": "sample_045.png"
+  },
+  {
+    "supplied_file": "PL_F0B.png",
+    "module_file": "sample_046.png"
+  },
+  {
+    "supplied_file": "PL_G0B.png",
+    "module_file": "sample_047.png"
+  },
+  {
+    "supplied_file": "PL_H0B.png",
+    "module_file": "sample_048.png"
+  },
+  {
+    "supplied_file": "PL_I0B.png",
+    "module_file": "sample_049.png"
+  },
+  {
+    "supplied_file": "PL_J0B.png",
+    "module_file": "sample_050.png"
+  },
+  {
+    "supplied_file": "PL_J1B.png",
+    "module_file": "sample_051.png"
+  },
+  {
+    "supplied_file": "PL_K0B.png",
+    "module_file": "sample_052.png"
+  },
+  {
+    "supplied_file": "PL_M0B.png",
+    "module_file": "sample_053.png"
+  },
+  {
+    "supplied_file": "PL_MRD.png",
+    "module_file": "sample_054.png"
+  },
+  {
+    "supplied_file": "PL_MRE.png",
+    "module_file": "sample_055.png"
+  },
+  {
+    "supplied_file": "PL_MRN.png",
+    "module_file": "sample_056.png"
+  },
+  {
+    "supplied_file": "PL_N0B.png",
+    "module_file": "sample_057.png"
+  },
+  {
+    "supplied_file": "PL_O0B.png",
+    "module_file": "sample_058.png"
+  },
+  {
+    "supplied_file": "PL_P0B.png",
+    "module_file": "sample_059.png"
+  },
+  {
+    "supplied_file": "PL_Q1B.png",
+    "module_file": "golden_evening.png"
+  },
+  {
+    "supplied_file": "PL_Q3B.png",
+    "module_file": "cool_night.png"
+  },
+  {
+    "supplied_file": "PL_Q4B.png",
+    "module_file": "sample_062.png"
+  },
+  {
+    "supplied_file": "PL_T0B.png",
+    "module_file": "sample_063.png"
+  },
+  {
+    "supplied_file": "PL_T1B.png",
+    "module_file": "sample_064.png"
+  },
+  {
+    "supplied_file": "PL_T2B.png",
+    "module_file": "sample_065.png"
+  },
+  {
+    "supplied_file": "PL_T3B.png",
+    "module_file": "sample_066.png"
+  },
+  {
+    "supplied_file": "PL_T4B.png",
+    "module_file": "sample_067.png"
+  },
+  {
+    "supplied_file": "PL_T5B.png",
+    "module_file": "sample_068.png"
+  },
+  {
+    "supplied_file": "PL_W0B.png",
+    "module_file": "sample_069.png"
+  },
+  {
+    "supplied_file": "PL_W1B.png",
+    "module_file": "sample_070.png"
+  },
+  {
+    "supplied_file": "PL_W2B.png",
+    "module_file": "sample_071.png"
+  },
+  {
+    "supplied_file": "PL_W3B.png",
+    "module_file": "sample_072.png"
+  },
+  {
+    "supplied_file": "PL_W4B.png",
+    "module_file": "sample_073.png"
+  },
+  {
+    "supplied_file": "PL_W5B.png",
+    "module_file": "sample_074.png"
+  },
+  {
+    "supplied_file": "PL_X0B.png",
+    "module_file": "woodland_day.png"
+  },
+  {
+    "supplied_file": "PL_X1B.png",
+    "module_file": "amber_twilight.png"
+  },
+  {
+    "supplied_file": "PL_X2B.png",
+    "module_file": "violet_night.png"
+  },
+  {
+    "supplied_file": "PL_X3B.png",
+    "module_file": "sample_078.png"
+  },
+  {
+    "supplied_file": "PL_Y0B.png",
+    "module_file": "sample_079.png"
+  },
+  {
+    "supplied_file": "PL_Y1B.png",
+    "module_file": "sample_080.png"
+  },
+  {
+    "supplied_file": "PL_Y2B.png",
+    "module_file": "firelight.png"
+  },
+  {
+    "supplied_file": "PL_Z0B.png",
+    "module_file": "sample_082.png"
+  }
+]
